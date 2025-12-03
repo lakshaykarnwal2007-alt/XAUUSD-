@@ -1,6 +1,44 @@
-# Lakshay’s First Project
+XAUUSD trading Journal
+This repository is for personal learning and trading journey in Gold(XAUUSD)
 
-This is my first repository on GitHub.  
-I am starting my journey in technology, trading automation, and finance projects.  
-# So Let's start
+Ill update this with":
+- My Trading Journal
+- My learning Notes
+- My Progress
+Created by Lakshay Karnwal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
