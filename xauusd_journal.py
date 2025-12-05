@@ -1,5 +1,5 @@
 trade=[]
-def add_trades(date,direction,entry,exit):
+def add_trade(date,direction,entry,exit):
   profit= entry - exit
   trades.append([date,direction,entry,exit,profit])
   print(f"Trade Added: {date}, {direction}, {entry} -> {exit}, Profit/Loss:{profit}")
